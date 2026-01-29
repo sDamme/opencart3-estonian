@@ -4,6 +4,7 @@ Estonian (eesti keel) language pack for OpenCart 3.x.
 
 Translated the bulk of it with AI from the english language pack that comes pre-installed with opencart, made some adjustments if I noticed that the translations were way off.
 
+Contains translations for everything in the admin panel as well as the default theme.
 ## Installation
 
 ### Option 1: Manual Installation
