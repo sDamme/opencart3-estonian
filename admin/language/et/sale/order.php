@@ -1,0 +1,132 @@
+<?php
+// Heading
+$_['heading_title']              = 'Tellimused';
+
+// Text
+$_['text_success']               = 'Olete edukalt muutnud tellimusi!';
+$_['text_list']                  = 'Tellimuste loend';
+$_['text_add']                   = 'Lisa tellimus';
+$_['text_edit']                  = 'Muuda tellimust';
+$_['text_filter']                = 'Filter';
+$_['text_order_detail']          = 'Tellimuse üksikasjad';
+$_['text_customer_detail']       = 'Kliendi andmed';
+$_['text_option']                = 'Valikud';
+$_['text_store']                 = 'Pood';
+$_['text_date_added']            = 'Lisamise kuupäev';
+$_['text_payment_method']        = 'Makseviis';
+$_['text_shipping_method']       = 'Saatmisviis';
+$_['text_customer']              = 'Klient';
+$_['text_customer_group']        = 'Kliendigrupp';
+$_['text_email']                 = 'E-post';
+$_['text_telephone']             = 'Telefon';
+$_['text_fax']                   = 'Faks';
+$_['text_invoice']               = 'Arve';
+$_['text_reward']                = 'Boonuspunktid';
+$_['text_affiliate']             = 'Partner';
+$_['text_order']                 = 'Tellimus (#%s)';
+$_['text_payment_address']       = 'Makseaadress';
+$_['text_shipping_address']      = 'Tarneaadress';
+$_['text_comment']               = 'Kliendi kommentaar';
+$_['text_history']               = 'Tellimuse ajalugu';
+$_['text_history_add']           = 'Lisa tellimuse ajalugu';
+$_['text_account_custom_field']  = 'Konto kohandatud väljad';
+$_['text_payment_custom_field']  = 'Makseaadressi kohandatud väljad';
+$_['text_shipping_custom_field'] = 'Tarneaadressi kohandatud väljad';
+$_['text_browser']               = 'Brauser';
+$_['text_ip']                    = 'IP-aadress';
+$_['text_forwarded_ip']          = 'Edastatud IP';
+$_['text_user_agent']            = 'Kasutagendi';
+$_['text_accept_language']       = 'Aktsepteeritud keel';
+$_['text_order_id']              = 'Tellimuse ID:';
+$_['text_website']               = 'Veebisait:';
+$_['text_invoice_no']            = 'Arve nr.';
+$_['text_invoice_date']          = 'Arve kuupäev:';
+$_['text_sku']                   = 'SKU:';
+$_['text_upc']                   = 'UPC:';
+$_['text_ean']                   = 'EAN:';
+$_['text_jan']                   = 'JAN:';
+$_['text_isbn']                  = 'ISBN:';
+$_['text_mpn']                   = 'MPN:';
+$_['text_missing']               = 'Puuduvad tellimused';
+$_['text_default']               = 'Vaikeväärtus';
+$_['text_product']               = 'Lisa toode(id)';
+$_['text_voucher']               = 'Lisa kinkekaart(id)';
+$_['text_shipping']              = 'Saatmine';
+$_['text_contact']               = 'Kontakt';
+$_['text_reward_added']          = 'Boonuspunkte edukalt lisatud!';
+$_['text_reward_removed']        = 'Boonuspunkte edukalt eemaldatud!';
+$_['text_commission_added']      = 'Komisjonitasu edukalt lisatud!';
+$_['text_commission_removed']    = 'Komisjonitasu edukalt eemaldatud!';
+$_['text_restock']               = 'Tooted on edukalt laos täiendatud!';
+$_['text_upload']                = 'Teie fail laaditi edukalt üles!';
+$_['text_picklist']              = 'Saateleht';
+
+// Column
+$_['column_order_id']            = 'Tellimuse ID';
+$_['column_customer']            = 'Klient';
+$_['column_status']              = 'Olek';
+$_['column_date_added']          = 'Lisamise kuupäev';
+$_['column_date_modified']       = 'Muutmise kuupäev';
+$_['column_total']               = 'Kokku';
+$_['column_product']             = 'Toode';
+$_['column_model']               = 'Mudel';
+$_['column_quantity']            = 'Kogus';
+$_['column_price']               = 'Ühikuhind';
+$_['column_comment']             = 'Kommentaar';
+$_['column_notify']              = 'Klienti teavitatud';
+$_['column_location']            = 'Asukoht';
+$_['column_reference']           = 'Viide';
+$_['column_action']              = 'Tegevus';
+$_['column_weight']              = 'Toote kaal';
+
+// Entry
+$_['entry_store']                = 'Pood';
+$_['entry_customer']             = 'Klient';
+$_['entry_customer_group']       = 'Kliendigrupp';
+$_['entry_firstname']            = 'Eesnimi';
+$_['entry_lastname']             = 'Perekonnanimi';
+$_['entry_email']                = 'E-post';
+$_['entry_telephone']            = 'Telefon';
+$_['entry_address']              = 'Vali aadress';
+$_['entry_company']              = 'Ettevõte';
+$_['entry_address_1']            = 'Aadress 1';
+$_['entry_address_2']            = 'Aadress 2';
+$_['entry_city']                 = 'Linn';
+$_['entry_postcode']             = 'Postiindeks';
+$_['entry_country']              = 'Riik';
+$_['entry_zone']                 = 'Piirkond / Maakond';
+$_['entry_zone_code']            = 'Piirkonna / maakonna kood';
+$_['entry_product']              = 'Vali toode';
+$_['entry_option']               = 'Vali valikud';
+$_['entry_quantity']             = 'Kogus';
+$_['entry_to_name']              = 'Saaja nimi';
+$_['entry_to_email']             = 'Saaja e-post';
+$_['entry_from_name']            = 'Saatja nimi';
+$_['entry_from_email']           = 'Saatja e-post';
+$_['entry_theme']                = 'Kinkekaardi teema';
+$_['entry_message']              = 'Sõnum';
+$_['entry_amount']               = 'Summa';
+$_['entry_affiliate']            = 'Partner';
+$_['entry_order_status']         = 'Tellimuse staatus';
+$_['entry_notify']               = 'Teavita klienti';
+$_['entry_override']             = 'Alistamine';
+$_['entry_comment']              = 'Kommentaar';
+$_['entry_currency']             = 'Valuuta';
+$_['entry_shipping_method']      = 'Saatmisviis';
+$_['entry_payment_method']       = 'Makseviis';
+$_['entry_coupon']               = 'Kupong';
+$_['entry_voucher']              = 'Kinkekaart';
+$_['entry_reward']               = 'Boonus';
+$_['entry_order_id']             = 'Tellimuse ID';
+$_['entry_total']                = 'Kokku';
+$_['entry_date_added']           = 'Lisamise kuupäev';
+$_['entry_date_modified']        = 'Muutmise kuupäev';
+
+// Help
+$_['help_override']              = 'Kui kliendi tellimust blokitakse tellimuse staatuse muutmise eest pettuste tõkestamise laienduse tõttu, lubage alistamine.';
+
+// Error
+$_['error_warning']              = 'Hoiatus: Palun kontrollige vormi hoolikalt vigade suhtes!';
+$_['error_permission']           = 'Hoiatus: Teil ei ole õigust tellimusi muuta!';
+$_['error_action']               = 'Hoiatus: Seda tegevust ei saanud lõpule viia!';
+$_['error_filetype']             = 'Vigane failitüüp!';
